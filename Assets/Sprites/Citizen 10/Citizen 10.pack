@@ -1,0 +1,61 @@
+
+Citizen 10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Citizen10D1
+  rotate: false
+  xy: 1, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Citizen10D2
+  rotate: false
+  xy: 18, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Citizen10U1
+  rotate: false
+  xy: 35, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Citizen10U2
+  rotate: false
+  xy: 52, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Citizen10L1
+  rotate: false
+  xy: 69, 1
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Citizen10L2
+  rotate: false
+  xy: 83, 1
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Citizen10R1
+  rotate: false
+  xy: 97, 1
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Citizen10R2
+  rotate: false
+  xy: 111, 1
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1

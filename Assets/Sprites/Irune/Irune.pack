@@ -1,0 +1,61 @@
+
+Irune.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+IruneD1
+  rotate: false
+  xy: 1, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IruneD2
+  rotate: false
+  xy: 17, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IruneL1
+  rotate: false
+  xy: 33, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IruneL2
+  rotate: false
+  xy: 49, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IruneR1
+  rotate: false
+  xy: 65, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IruneR2
+  rotate: false
+  xy: 81, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IruneU1
+  rotate: false
+  xy: 97, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IruneU2
+  rotate: false
+  xy: 113, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

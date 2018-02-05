@@ -1,0 +1,61 @@
+
+Citizen 4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Citizen4D1
+  rotate: false
+  xy: 1, 86
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Citizen4D2
+  rotate: false
+  xy: 1, 69
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Citizen4U1
+  rotate: false
+  xy: 1, 52
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Citizen4U2
+  rotate: false
+  xy: 1, 35
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Citizen4L1
+  rotate: false
+  xy: 1, 18
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Citizen4L2
+  rotate: false
+  xy: 17, 18
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Citizen4R1
+  rotate: false
+  xy: 1, 1
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Citizen4R2
+  rotate: false
+  xy: 17, 1
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1

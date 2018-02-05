@@ -1,0 +1,61 @@
+
+Citizen 12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Citizen12L2
+  rotate: false
+  xy: 1, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Citizen12R2
+  rotate: false
+  xy: 1, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Citizen12L1
+  rotate: false
+  xy: 1, 55
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Citizen12D1
+  rotate: false
+  xy: 18, 55
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Citizen12R1
+  rotate: false
+  xy: 1, 37
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Citizen12D2
+  rotate: false
+  xy: 18, 37
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Citizen12U1
+  rotate: false
+  xy: 1, 19
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Citizen12U2
+  rotate: false
+  xy: 1, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1

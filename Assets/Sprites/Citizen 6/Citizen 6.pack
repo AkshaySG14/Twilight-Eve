@@ -1,0 +1,61 @@
+
+Citizen 6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Citizen6U1
+  rotate: false
+  xy: 1, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+Citizen6U2
+  rotate: false
+  xy: 17, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+Citizen6D1
+  rotate: false
+  xy: 33, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Citizen6D2
+  rotate: false
+  xy: 48, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Citizen6L2
+  rotate: false
+  xy: 63, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Citizen6R2
+  rotate: false
+  xy: 78, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Citizen6L1
+  rotate: false
+  xy: 93, 1
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Citizen6R1
+  rotate: false
+  xy: 107, 1
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1

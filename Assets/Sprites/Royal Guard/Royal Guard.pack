@@ -1,0 +1,61 @@
+
+Royal Guard.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RoyalGuardD1
+  rotate: false
+  xy: 1, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+RoyalGuardD2
+  rotate: false
+  xy: 18, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+RoyalGuardU1
+  rotate: false
+  xy: 35, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+RoyalGuardU2
+  rotate: false
+  xy: 52, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+RoyalGuardL1
+  rotate: false
+  xy: 69, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+RoyalGuardL2
+  rotate: false
+  xy: 84, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+RoyalGuardR1
+  rotate: false
+  xy: 99, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+RoyalGuardR2
+  rotate: false
+  xy: 114, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1

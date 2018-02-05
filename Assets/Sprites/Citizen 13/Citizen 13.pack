@@ -1,0 +1,61 @@
+
+Citizen 13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Citizen13D1
+  rotate: false
+  xy: 1, 1
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Citizen13D2
+  rotate: false
+  xy: 18, 1
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Citizen13U1
+  rotate: false
+  xy: 35, 1
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Citizen13U2
+  rotate: false
+  xy: 52, 1
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Citizen13L1
+  rotate: false
+  xy: 69, 1
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Citizen13L2
+  rotate: false
+  xy: 83, 1
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Citizen13R1
+  rotate: false
+  xy: 97, 1
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Citizen13R2
+  rotate: false
+  xy: 111, 1
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1

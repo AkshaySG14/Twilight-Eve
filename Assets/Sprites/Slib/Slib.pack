@@ -1,0 +1,61 @@
+
+Slib.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SlibD1
+  rotate: false
+  xy: 1, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+SlibL1
+  rotate: false
+  xy: 14, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+SlibR1
+  rotate: false
+  xy: 27, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+SlibU1
+  rotate: false
+  xy: 40, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+SlibD2
+  rotate: false
+  xy: 53, 1
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+SlibL2
+  rotate: false
+  xy: 64, 1
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+SlibR2
+  rotate: false
+  xy: 75, 1
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+SlibU2
+  rotate: false
+  xy: 86, 1
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1

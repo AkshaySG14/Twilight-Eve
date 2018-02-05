@@ -1,0 +1,61 @@
+
+Citizen 2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Citizen2D1
+  rotate: false
+  xy: 1, 86
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Citizen2D2
+  rotate: false
+  xy: 1, 69
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Citizen2U1
+  rotate: false
+  xy: 1, 52
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Citizen2U2
+  rotate: false
+  xy: 1, 35
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Citizen2L1
+  rotate: false
+  xy: 1, 18
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Citizen2L2
+  rotate: false
+  xy: 17, 18
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Citizen2R1
+  rotate: false
+  xy: 1, 1
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Citizen2R2
+  rotate: false
+  xy: 17, 1
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1

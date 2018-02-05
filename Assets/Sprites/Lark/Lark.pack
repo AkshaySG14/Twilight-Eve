@@ -1,0 +1,68 @@
+
+Lark.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LarkD1
+  rotate: false
+  xy: 1, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+LarkD2
+  rotate: false
+  xy: 18, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+LarkL1
+  rotate: false
+  xy: 35, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+LarkL2
+  rotate: false
+  xy: 52, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+LarkR1
+  rotate: false
+  xy: 69, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+LarkR2
+  rotate: false
+  xy: 86, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+LarkS
+  rotate: false
+  xy: 103, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+LarkU1
+  rotate: false
+  xy: 120, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+LarkU2
+  rotate: false
+  xy: 137, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1

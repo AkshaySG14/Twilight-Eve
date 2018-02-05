@@ -1,0 +1,61 @@
+
+Prince.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PrinceL2
+  rotate: false
+  xy: 1, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+PrinceR2
+  rotate: false
+  xy: 17, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+PrinceD1
+  rotate: false
+  xy: 33, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+PrinceD2
+  rotate: false
+  xy: 48, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+PrinceL1
+  rotate: false
+  xy: 63, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+PrinceR1
+  rotate: false
+  xy: 78, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+PrinceU1
+  rotate: false
+  xy: 93, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+PrinceU2
+  rotate: false
+  xy: 108, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1

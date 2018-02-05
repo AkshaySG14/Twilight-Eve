@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Characters/Citizen01.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Characters/Character.cs" Line="8" Column="3" />
+      <File FileName="Assets/Scripts/Characters/Lark.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Screens/GameScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Elements/GameHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Elements/Storage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Events/Events.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/CharacterHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/Citizen01.cs" Line="21" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
